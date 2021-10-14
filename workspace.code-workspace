@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Email-Notifier-master\\models"
+		},
+		{
+			"path": "..\\Email-Notifier-master\\public"
+		},
+		{
+			"path": "..\\Email-Notifier-master\\views"
+		}
+	]
+}
